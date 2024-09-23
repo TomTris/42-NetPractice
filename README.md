@@ -1,2 +1,2 @@
-Score: 100/100
-You can open net_practice to try some tests!
+- Score: 100/100
+- You can open net_practice to try some tests!
